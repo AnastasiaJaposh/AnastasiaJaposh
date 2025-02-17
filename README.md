@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I am new to Github and I'm planning to learn more😁
+- my current plan is to successfully get into an University📚
+- I love mathematics, physics, tech🖥, drawing and journaling📓
